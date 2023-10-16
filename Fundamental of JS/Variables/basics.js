@@ -84,4 +84,10 @@ we could use the multi line comments
 */
 
 
+// console.log("hello", // this is  a comment);
+
+console.log("hello" /* This is a comment */);
+console.log("hello");   // this is a comment 
+console.log(/* This is a comment */ "hello" );
+
 

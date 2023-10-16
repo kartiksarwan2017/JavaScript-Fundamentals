@@ -63,3 +63,25 @@ console.log(age);
 
 // console.log(myName);
 
+
+/* Comments in JS */
+
+// let, const , var
+// -- Single Line Comment
+
+
+/* if we want the part of the code to be ignored 
+by the compiler we could use comments */
+// const pi = 3.14;
+
+
+/* 
+Multiline Comments 
+
+if we want to comment multiple lines of the code
+we could use the multi line comments
+
+*/
+
+
+
